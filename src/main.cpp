@@ -15,7 +15,7 @@ void draw_line(sf::RenderTarget &target, sf::Vector2f p1, sf::Vector2f p2) {
 }
 
 int main() {
-    auto window = sf::RenderWindow({800, 600}, "CMake SFML Project");
+    auto window = sf::RenderWindow({800, 600}, "Circle Trigonometry");
     window.setFramerateLimit(144);
 
     auto center = static_cast<sf::Vector2f>(window.getSize()) / 2.f;
