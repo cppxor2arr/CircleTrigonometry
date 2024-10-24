@@ -2,6 +2,8 @@
 
 Rewritten code for this [video](https://www.youtube.com/watch?v=RG-zH1W8Bec) (I couldn't find the old code).
 
+![Circle trigonometry visualization](screenshot.png?raw=true "Circle Trigonometry")
+
 ## How to build and run
 
 If this doesn't work because dependencies are missing try reading this:  
